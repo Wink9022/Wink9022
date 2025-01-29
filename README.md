@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Wink9022
+- 👋 Hi, I’m @fiqthz
 - 👀 I’m interested on discovering new stuff
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me. discord- fiqthz_on_top
+- 📫 How to reach me. discord- mainfiq
 
 <!---
 Wink9022/Wink9022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
